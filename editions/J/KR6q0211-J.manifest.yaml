@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6q0211/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0211/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大懺悔文略解
+  identifiers:
+    krp: KR6q0211
+    cbeta: J30nB260
+    cbeta_old_id: J30nB260
+    authorityid: CA0005927
+    json_key: JB260
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J30/J30nB260.xml
+    old_id: J30nB260
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0211_000-J.yaml, hash: 'sha256:0b6e06f4f2f42182093138a0d1e1572a5befd277b2f7b05c725c6f3b538c2773'}
+  - {seq: 1, filename: KR6q0211_001-J.yaml, hash: 'sha256:0c50f5b33101b02c4265b7203a0d846d805a5934280d95352b50cb17471afe2f'}
+  - {seq: 2, filename: KR6q0211_002-J.yaml, hash: 'sha256:903bd9f51f7946b65aee25b3c69655ecb0bffc7fb2b70bf5f62d8f882e6da3d8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0211_000-J.markers.yaml, hash: 'sha256:a2053afec21f5dbfb2ab4096ea5c5f1315a2951ad5db450c026656962d611a1c'}
+  - {seq: 1, role: markers, filename: assets/KR6q0211_001-J.markers.yaml, hash: 'sha256:4a6b0480d747e4dd5d4c123e8a1fe2980a3b78d9cc2affe406a2bc940e2c1a23'}
+  - {seq: 2, role: markers, filename: assets/KR6q0211_002-J.markers.yaml, hash: 'sha256:a156b67f087adec838868fe544b173f6045dd931d335970f19b4d8c8dc515af5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0211_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0211_J_000-mulu-2
+    span:
+    - front
+    - 305
+    - 305
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0211_J_000-mulu-3
+    span:
+    - front
+    - 829
+    - 829
+  label: 禮佛大懺悔文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0211_J_000-mulu-4
+    span:
+    - front
+    - 2397
+    - 2397
+  label: 略解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0211_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 8947
+  label: 大懺悔文略解卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0211_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 9863
+  label: 大懺悔文略解卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0211_J_002-mulu-1
+    span:
+    - body
+    - 9722
+    - 9722
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0211_J_002-mulu-2
+    span:
+    - body
+    - 9722
+    - 9722
+  label: 跋
+  type: mulu
+  level: 1
+hash: sha256:8164d4080f7db97b2e7ccfaef94bb5f22ed69fa664c7b64e1511eedb28af3163

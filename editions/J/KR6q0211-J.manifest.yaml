@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0211_000-J.yaml, hash: 'sha256:0b6e06f4f2f42182093138a0d1e1572a5befd277b2f7b05c725c6f3b538c2773'}
+  - {seq: 0, filename: KR6q0211_000-J.yaml, hash: 'sha256:42641945b79cb51aee739e1b2d762f642e8e7a70d08c9eeb0f14566d078bfe8d'}
   - {seq: 1, filename: KR6q0211_001-J.yaml, hash: 'sha256:0c50f5b33101b02c4265b7203a0d846d805a5934280d95352b50cb17471afe2f'}
   - {seq: 2, filename: KR6q0211_002-J.yaml, hash: 'sha256:903bd9f51f7946b65aee25b3c69655ecb0bffc7fb2b70bf5f62d8f882e6da3d8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0211_000-J.markers.yaml, hash: 'sha256:a2053afec21f5dbfb2ab4096ea5c5f1315a2951ad5db450c026656962d611a1c'}
+  - {seq: 0, role: markers, filename: assets/KR6q0211_000-J.markers.yaml, hash: 'sha256:0034a6bb9052d46cad5847ab57bb123b4819014b02a466efc4f7fa826bb69335'}
   - {seq: 1, role: markers, filename: assets/KR6q0211_001-J.markers.yaml, hash: 'sha256:4a6b0480d747e4dd5d4c123e8a1fe2980a3b78d9cc2affe406a2bc940e2c1a23'}
   - {seq: 2, role: markers, filename: assets/KR6q0211_002-J.markers.yaml, hash: 'sha256:a156b67f087adec838868fe544b173f6045dd931d335970f19b4d8c8dc515af5'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0211_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0211_J_000-mulu-2
     span:
-    - front
+    - body
     - 305
     - 305
   label: 凡例
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0211_J_000-mulu-3
     span:
-    - front
+    - body
     - 829
     - 829
   label: 禮佛大懺悔文
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0211_J_000-mulu-4
     span:
-    - front
+    - body
     - 2397
     - 2397
   label: 略解
@@ -107,4 +107,4 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:8164d4080f7db97b2e7ccfaef94bb5f22ed69fa664c7b64e1511eedb28af3163
+hash: sha256:2dca6a6a64fd8fa08452e919dc3c28acd4d8e12acd37c35e316e03ff3f02e278
